@@ -51,6 +51,3 @@ voices: "who did the talking"
 
 The beauty of this set up is that it's simple - and you can access [all the source files over on GitHub](https://github.com/timklapdor/link-rot). The RSS file pulls information from the config.yml file which has most of the information you need to publish on iTunes. The episode information and file for Plyr are included the Post layout and pulled in from the front matter listed above. All styles can be configured using some basic CSS. 
 
-At the moment you'll need to fork our code to make your own copy - but we'll make a boilerplate available soon. If this sounds cool and you want to get in touch with us you can via <a href="mailto:linkrot.podcast@gmail.com?subject=I found your website and wanted to say hi!">email</a> or on <a href="http://twitter.com/linkrotpodcast">twitter</a>!
-
-Cheers!

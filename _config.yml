@@ -31,11 +31,3 @@ markdown: kramdown
 
 #Exclude local build settings
 exclude: ['readme.md', 'Gemfile.lock', 'Gemfile']
-
-plugins:
-  - jekyll-analytic
-
-jekyll_analytics:
-  Plausible:
-    domain: 'audio.orbific.com'   # The domain configured in plausible
-    source: 'https://plausible.example.com/js/plausible.js' #s

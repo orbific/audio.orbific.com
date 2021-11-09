@@ -2,7 +2,7 @@
 layout: post
 title: "Talk at the 2021 Invisibles Unconvention"
 date: 2021-11-10 20:02:00 +0100
-file: https://s3.console.aws.amazon.com/s3/object/audio-orbific?region=eu-west-2&prefix=orbific-unconvention-23.10.mp3
+file: https://audio-orbific.s3.eu-west-2.amazonaws.com/orbific-unconvention-23.10.mp3
 summary: "A talk by James from the Invisibles Unconvention"
 description: "This is a talk I gave at the 27th Annual Invisibles Unconvention on October 23rd 2021."
 explicit: "no" 
